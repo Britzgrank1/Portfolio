@@ -1,0 +1,20 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = " "
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "21 August 2026"
+copyright = " "
+description = " "
+
+["params.author"]
+image = "semester2plan.png"
+name = "Seif Rabih Ahmad"
+bio = " "
+headline = "Datamatiker Studerende"
+email = " "

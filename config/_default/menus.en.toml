@@ -1,0 +1,26 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Github"
+pre = "code"
+url = "https://github.com/Britzgrank1"
+identifier = "d3FNH65VJb"
+weight = 1
+
+
+[[main]]
+name = "Posts"
+pre = "posts"
+url = "https://github.com/Britzgrank1"
+identifier = "d3FNH65VJG"
+weight = 2
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "IMDP"
+pageRef = "Project"
+identifier = "Ceqa9rl4JT"
+weight = 1
