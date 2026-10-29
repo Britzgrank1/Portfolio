@@ -23,7 +23,7 @@ som jeg har til at gemme dem i min egen database
 ## Hvorfor strukturerede jeg det sådan?
 
 Altså fik strukturerede det så TmdbClient og ImportService er adskilt fordi jeg gerne ville have at den ene snakker med TMDB imens den
-anden gemmer det i databsen, filmene fra TMDB indeholder kun genre id'er og ikke hele genrer derfor gemte jeg genrene først i databsen så
+anden gemmer det i databasen, filmene fra TMDB indeholder kun genre id'er og ikke hele genrer derfor gemte jeg genrene først i databasen så
 jeg derefter kunne koble det til filmene.
 Jeg har også en metode getByTmdbId som tjekker om filmen allerede findes, så den ikke bliver gemt to gange hvis man importere igen.
 Så fik jeg også lavet specifikke TMDB dto'er fordi TMDB har et andet JSON format som jeg ikke var interesseret i, når jeg fx kun ville have release_date og vote_average
