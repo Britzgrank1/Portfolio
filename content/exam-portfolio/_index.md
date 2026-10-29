@@ -8,7 +8,6 @@ description: "Udviklerlog for mit backend-eksamensprojekt (3. semester)"
 ## Links
 
 - **Kode-repo:** [github.com/Britzgrank1/exam-backend](https://github.com/Britzgrank1/exam-backend)
-- **Video (max 5 min):** _kommer snart_
 - **Deployed API:** [exam.datudvikling.dk/api/healthcheck](https://exam.datudvikling.dk/api/healthcheck)
 
 ## Indlæg
